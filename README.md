@@ -1,5 +1,6 @@
 ### Starter Project for the Material UI playlist
 
-Download the code & run **npm install** to install dependencies before starting the app.
+I have created this notes app using React JS and I have used Material-UI for styling purposes.
 
-You'll also need to install Material UI as a dependency. To do this run **npm install @material-ui/core**
+
+Download the code & run **npm install** to install dependencies before starting the app.
